@@ -21,10 +21,10 @@
     "chapter": 5,
 
     // The map that you start in when first starting the project.
-    "map": "room1",
+    "map": "grand_fountain",
 
     // The party. The first character is the player.
-    "party": ["kris", "susie", "ralsei"],
+    "party": ["SOUL"],
 
     // The inventory. Contains three darkburgers, a cell phone and a shadow crystal by default.
     "darkInventory": {
@@ -34,18 +34,6 @@
 
     // Equipment for your party. Not specifying equipment defaults to the following.
     "equipment": {
-        "kris": {
-            "weapon": "wood_blade",
-            "armor": ["amber_card", "amber_card"]
-        },
-        "susie": {
-            "weapon": "mane_ax",
-            "armor": ["amber_card", "amber_card"]
-        },
-        "ralsei": {
-            "weapon": "red_scarf",
-            "armor": ["amber_card", "amber_card"]
-        }
     },
     "libraries": ["SOUL_Lib", "DepthsEffects", "hometown"],
     // Should never be true, but just in case. Restarts the entire engine when leaving the project.
