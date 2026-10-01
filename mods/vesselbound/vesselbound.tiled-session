@@ -1,0 +1,63 @@
+{
+    "activeFile": "scripts/world/maps/grand_fountain.tmx",
+    "expandedProjectPaths": [
+        "scripts/world/maps",
+        "scripts/world"
+    ],
+    "fileStates": {
+        "C:/APK Editor Studio v1.7.2/data/temp/apk/{98c045f5-6431-4d1d-a4e9-865a360244fa}/assets/mods/chapter5wr_windows/scripts/world/maps/spawn_tree.tmx": {
+            "scale": 0.8827083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.03776256785454,
+                "y": 480.3398631106915
+            }
+        },
+        "C:/APK Editor Studio v1.7.2/data/temp/apk/{98c045f5-6431-4d1d-a4e9-865a360244fa}/assets/mods/chapter5wr_windows/scripts/world/tilesets/snow_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "scripts/world/maps/gallery.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.33333333333326,
+                "y": 640
+            }
+        },
+        "scripts/world/maps/grand_fountain.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 319.33333333333326,
+                "y": 238.66666666666669
+            }
+        },
+        "scripts/world/maps/room1.tmx": {
+            "scale": 0.8827083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 399.3391550625443,
+                "y": 480.3398631106915
+            }
+        },
+        "scripts/world/tilesets/castle.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/vladi/AppData/Roaming/kristal/mods/vesselbound/scripts/world/maps",
+    "map.lastUsedExportFilter": "Lua файлы (*.lua)",
+    "openFiles": [
+        "scripts/world/maps/grand_fountain.tmx"
+    ],
+    "project": "vesselbound.tiled-project",
+    "recentFiles": [
+        "scripts/world/maps/grand_fountain.tmx",
+        "scripts/world/maps/gallery.tmx",
+        "scripts/world/maps/room1.tmx",
+        "C:/APK Editor Studio v1.7.2/data/temp/apk/{98c045f5-6431-4d1d-a4e9-865a360244fa}/assets/mods/chapter5wr_windows/scripts/world/maps/spawn_tree.tmx"
+    ]
+}
