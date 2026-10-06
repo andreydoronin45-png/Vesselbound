@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.11" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="16" height="32" tilewidth="40" tileheight="40" infinite="0" nextlayerid="9" nextobjectid="17">
+ <editorsettings>
+  <export target="gallery.lua" format="lua"/>
+ </editorsettings>
+ <properties>
+  <property name="border" value="nil"/>
+  <property name="inside" type="bool" value="true"/>
+ </properties>
+ <tileset firstgid="1" source="../tilesets/castle.tsx"/>
+ <layer id="7" name="tiles" width="16" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzty8sKgCAQheHpAtHFaqVSvf9zdhYnCBl1GcEI38Lh/F5EGggwQoQhw3MT2ETeHG+OtzlD23r+H7U+3R5wvlyFXttOhX3NYr311ltv/W/7FTZFutU2u+RfCx31hd3X/Q2sRhXF
+  </data>
+ </layer>
+ <layer id="8" name="decal" width="16" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFICAHxPJArECmGiUgVgZiFTz68alRA2J1INbAo58YNUMVjIb/wILR8B/aYDT+RgE5AABg5gnZ
+  </data>
+ </layer>
+ <objectgroup color="#ff00ff" id="2" name="objects_floor"/>
+ <objectgroup color="#ff00ff" id="3" name="objects_fountain"/>
+ <objectgroup color="#000000" id="5" name="markers">
+  <object id="7" name="spawn" x="320" y="1200">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#00aa00" id="4" name="controllers"/>
+ <objectgroup color="#5500ff" id="6" name="collision"/>
+</map>
