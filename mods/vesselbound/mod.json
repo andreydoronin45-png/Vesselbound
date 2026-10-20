@@ -35,7 +35,7 @@
     // Equipment for your party. Not specifying equipment defaults to the following.
     "equipment": {
     },
-    "libraries": ["SOUL_Lib", "DepthsEffects", "hometown"],
+    "libraries": ["SOUL_Lib", "DepthsEffects", "hometown", "fireshockch5", "cyan_soul", "playable_flowers"],
     // Should never be true, but just in case. Restarts the entire engine when leaving the project.
     // If you need this, you're most likely doing something wrong.
     "hardReset": false,
